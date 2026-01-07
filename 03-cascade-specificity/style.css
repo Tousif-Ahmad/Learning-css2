@@ -1,0 +1,19 @@
+li{
+    background-color: red;
+}
+li{
+    background-color: teal;
+}
+.html{
+    background-color: cadetblue;
+}
+
+/* inheritance  */
+/* body{
+    color: yellowgreen;
+}
+ul{
+    font-size: 32px;
+    font-weight: 900;
+    font-family: cursive;
+} */
