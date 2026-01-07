@@ -1,0 +1,11 @@
+p{
+    color: cadetblue;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: underline wavy;
+}
+a{
+    text-decoration: none;
+}
+
+/* user agent style sheet browser ki tarf se de jaati he */
