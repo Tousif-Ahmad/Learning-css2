@@ -1,0 +1,10 @@
+.one{
+    background-color: aqua;
+    width: 300px;
+    padding: 20px;
+    border: 10px solid red;
+
+}
+.two{
+    background-color: blueviolet;
+}
