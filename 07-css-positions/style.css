@@ -1,0 +1,29 @@
+div{
+    position: relative;
+    background-color: chartreuse;
+    /* top: 25px;
+    bottom: 10px;
+    left: 100px; */
+}
+ul{
+    position: relative;
+    background-color: brown;
+    height: 300px;
+    overflow-y: scroll;
+}
+/* .css{
+    background-color: aquamarine;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    
+}
+.js{
+    position: fixed;
+    background-color: darkorange;
+} */
+ .html{
+    position: sticky;
+    background-color: chocolate;
+    top: 25px;
+ }
