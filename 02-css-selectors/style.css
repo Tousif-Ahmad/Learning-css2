@@ -1,0 +1,25 @@
+li{
+    font-weight: 700;
+    font-size: 32px;
+}
+.html{
+    color: red;
+}
+.css{
+    color: blue;
+}
+.js{
+    color: yellow;
+}
+.rct{
+    color: green;
+}
+.tlwd{
+    color: skyblue;
+}
+[class]{
+    background-color: teal;
+}
+ul p{
+    background-color: lightgreen;
+}
